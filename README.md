@@ -4,3 +4,6 @@ The list of notebooks currently includes:
 
 1. Leaf diseases classification: InceptionV3 network:
    https://www.kaggle.com/lorresprz/leaf-diseases-classification-inceptionv3-network
+
+2. Natural Scenes Classification: ResNet50, EfficientNetV2, MobileNetV2, VGG16
+   https://www.kaggle.com/code/lorresprz/natural-scenes-resnet50-efficientnetv2-vgg16
