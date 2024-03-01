@@ -7,3 +7,9 @@ The list of notebooks currently includes:
 
 2. Natural Scenes Classification: ResNet50, EfficientNetV2, MobileNetV2, VGG16
    https://www.kaggle.com/code/lorresprz/natural-scenes-resnet50-efficientnetv2-vgg16
+
+3. Brain-Tumor-Detection | Custom CNN PyTorch 98% acc
+   https://www.kaggle.com/code/lorresprz/brain-tumor-detection-custom-cnn-pytorch-98-acc
+   
+4. Siamese Network for Facial Recognition (PyTorch)
+   https://colab.research.google.com/github/lorrespz/Image_classification_collection/blob/main/Siamese_Network_for_Facial_Recognition_(PyTorch).ipynb
