@@ -14,4 +14,6 @@ The list of notebooks currently includes:
 4. Siamese Network for Facial Recognition (PyTorch)
    https://colab.research.google.com/github/lorrespz/Image_classification_collection/blob/main/Siamese_Network_for_Facial_Recognition_(PyTorch).ipynb
 
-5. Competition notebooks for HMS-Classifying Harmful Brain Activities
+5. Competition notebooks for HMS-Classifying Harmful Brain Activities:
+   HMS: Inception-Resnet-v2 5fold-CV (Training)
+   HMS: Inception-ResNet-v2 5 fold-CV-Inference
