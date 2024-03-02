@@ -15,5 +15,7 @@ The list of notebooks currently includes:
    https://colab.research.google.com/github/lorrespz/Image_classification_collection/blob/main/Siamese_Network_for_Facial_Recognition_(PyTorch).ipynb
 
 5. Competition notebooks for HMS-Classifying Harmful Brain Activities:
+    (https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification)
    - HMS: Inception-Resnet-v2 5fold-CV (Training)
    - HMS: Inception-ResNet-v2 5 fold-CV-Inference
+   - HMS: MobileNetV2 5 fold CV (Training + Inference)
