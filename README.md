@@ -17,5 +17,6 @@ The list of notebooks currently includes:
 5. Competition notebooks for HMS-Classifying Harmful Brain Activities:
     (https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification)
    - HMS: Inception-Resnet-v2 5fold-CV (Training)
-   - HMS: Inception-ResNet-v2 5 fold-CV-Inference
+   - HMS: Inception-ResNet-v2 5 fold-CV (Inference)
    - HMS: MobileNetV2 5 fold CV (Training + Inference)
+   - HMS: Ensemble of models (Submission)
