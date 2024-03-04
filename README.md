@@ -20,3 +20,9 @@ The list of notebooks currently includes:
    - HMS: Inception-ResNet-v2 5 fold-CV (Inference)
    - HMS: MobileNetV2 5 fold CV (Training + Inference)
    - HMS: Ensemble of models (Submission)
+  
+6. Object detection with SSD:
+   - Object-detection-SSD: EfficientDet & MobileNet:
+     https://www.kaggle.com/code/lorresprz/object-detection-ssd-efficientdet-mobilenet
+   - Object-detection-SSD (ResNet101):
+     https://colab.research.google.com/github/lorrespz/Image-Classification-Collection/blob/main/SSD_Object_Detection.ipynb
