@@ -1,4 +1,4 @@
-# Image_classification_collection
+# Image Classification Collection
 A collection of Jupyter notebooks on various Deep Learning neural networks (mostly CNNs and their derivatives) for image classification tasks. 
 The list of notebooks currently includes:
 
@@ -13,15 +13,8 @@ The list of notebooks currently includes:
    
 4. Siamese Network for Facial Recognition (PyTorch)
    https://colab.research.google.com/github/lorrespz/Image_classification_collection/blob/main/Siamese_Network_for_Facial_Recognition_(PyTorch).ipynb
-
-5. Competition notebooks for HMS-Classifying Harmful Brain Activities:
-    (https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification)
-   - HMS: Inception-Resnet-v2 5fold-CV (Training)
-   - HMS: Inception-ResNet-v2 5 fold-CV (Inference)
-   - HMS: MobileNetV2 5 fold CV (Training + Inference)
-   - HMS: Ensemble of models (Submission)
   
-6. Object detection with SSD:
+5. Object detection with SSD:
    - Object-detection-SSD: EfficientDet & MobileNet:
      https://www.kaggle.com/code/lorresprz/object-detection-ssd-efficientdet-mobilenet
    - Object-detection-SSD (ResNet101):
