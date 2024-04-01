@@ -23,4 +23,5 @@ The list of notebooks currently includes:
  6. LSTM for image classification:
     - LSTM_for_image_classification_[FashionMNIST].ipynb
     - LSTM_for_image_classification_[PyTorch_+_FashionMNIST];_Hyperparameter_tuning_with_Optuna.ipynb
+    - Neural_Network_Hyperparameter_tuning_with_Optuna_[PyTorch_+_FashionMNIST].ipynb
    
