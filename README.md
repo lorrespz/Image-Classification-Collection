@@ -11,7 +11,7 @@ The list of notebooks currently includes:
 3. Brain-Tumor-Detection | Custom CNN PyTorch 98% acc
    https://www.kaggle.com/code/lorresprz/brain-tumor-detection-custom-cnn-pytorch-98-acc
    
-4. Siamese Network for Facial Recognition (PyTorch)
+4. Siamese Network for Facial Recognition (PyTorch) - in progress
    https://colab.research.google.com/github/lorrespz/Image_classification_collection/blob/main/Siamese_Network_for_Facial_Recognition_(PyTorch).ipynb
   
 5. Object detection with SSD:
@@ -19,3 +19,8 @@ The list of notebooks currently includes:
      https://www.kaggle.com/code/lorresprz/object-detection-ssd-efficientdet-mobilenet
    - Object-detection-SSD (ResNet101):
      https://colab.research.google.com/github/lorrespz/Image-Classification-Collection/blob/main/SSD_Object_Detection.ipynb
+
+ 6. LSTM for image classification:
+    - LSTM_for_image_classification_[FashionMNIST].ipynb
+    - LSTM_for_image_classification_[PyTorch_+_FashionMNIST];_Hyperparameter_tuning_with_Optuna.ipynb
+   
