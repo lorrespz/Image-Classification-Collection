@@ -25,3 +25,6 @@ The list of notebooks currently includes:
     - LSTM_for_image_classification_[PyTorch_+_FashionMNIST];_Hyperparameter_tuning_with_Optuna.ipynb
     - Neural_Network_Hyperparameter_tuning_with_Optuna_[PyTorch_+_FashionMNIST].ipynb
    
+  7. Custom_ResNet_model_for_BloodCell_dataset.ipynb:
+     - In this notebook, a custom ResNet model was created (using TensorFlow) to classify the blood cell datset. 
+   
